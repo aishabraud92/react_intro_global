@@ -51,7 +51,6 @@ As you're drawing this out, think about the following questions...
 ### So -
 What does a component look like? Let's start with a simple "Hello World" example...
 
-## Hello World exercise - You do!
 #### Code along: A Very Basic Component
 
 In this section, we'll walk through:
