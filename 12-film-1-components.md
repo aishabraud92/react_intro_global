@@ -68,7 +68,7 @@ Does "It" appear on the left side of your browser?
 
 #### Step 5: Create and render an array of film title elements
 
-Use `.map()` inside of the `FilmListing` to iterate over the collection of films and create an element for each one. (Here is the [map documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map).
+Use `.map()` inside of the `FilmListing` to iterate over the collection of films and create an element for each one. (Here is the [map documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)).
 
 Then, render the variable `allFilms` underneath the Films `<h1>`.
 
